@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yafis Hussain Khan 👋
 
-<!--
-**yafishussainkhan1-hue/yafishussainkhan1-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+🐍 Learning Python & Object-Oriented Programming  
+📊 Interested in Data Science and Machine Learning  
+💻 Building projects and improving my programming skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Object-Oriented Programming
+- SQL
+- Data Science
+- Machine Learning
+
+## 📂 Projects
+
+### Student Management System
+A Python project using Object-Oriented Programming to manage student records.
+
+🔗 [View Project](https://github.com/yafishussainkhan1-hue/student-management-system)
+
+## 🎯 Currently Learning
+
+- Python
+- OOP
+- SQL
+- Data Structures & Algorithms
+- Data Science
+- Machine Learning
+
+## 📈 My Goal
+
+To build strong practical skills in AI and Data Science and develop real-world projects for internships and future opportunities.
